@@ -16,7 +16,7 @@ Shop for buy everything
 
 "npm i" to install dependencies 
 
-"npm develop" to start project in local host
+"npm run develop" to start project in local host
 
 ## Credits
 
